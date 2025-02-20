@@ -45,4 +45,6 @@ I'm a Front-End Developer and a BS Software Engineering student at IMSciences, P
 - [LinkedIn](https://www.linkedin.com/in/mohasin-nawaz-841a24240/)  
 - [Email](mailto:mohasinnawaz.4@gmail.com)  
 
+## Code by day, dream by night – and always, always chasing excellence.
+
 Feel free to reach out for collaboration or just a chat about technology and development! 😊  
